@@ -1,1 +1,10 @@
-/home/charsos/code/charsos/dotfiles/SublimeLinter.sublime-settings
+{
+  "paths": {
+    "linux": [
+      "~/.rbenv/shims"
+    ],
+    "osx": [
+      "~/.rbenv/shims"
+    ]
+  }
+}
