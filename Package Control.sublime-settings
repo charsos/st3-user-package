@@ -5,8 +5,6 @@
 	],
 	"installed_packages":
 	[
-		"1Self",
-		"A File Icon",
 		"AdvancedNewFile",
 		"All Autocomplete",
 		"Babel",
@@ -15,18 +13,13 @@
 		"ERB Snippets",
 		"Git",
 		"GitGutter",
-		"Glue",
 		"LoremIpsum",
-		"Material Design Lite Selectors Snippets",
 		"Material Theme",
 		"Material Theme - Appbar",
 		"Package Control",
-		"rsub",
 		"SCSS",
 		"SublimeLinter",
 		"SublimeLinter-eslint",
-		"SublimeLinter-rubocop",
-		"TerminalView",
-		"View In Browser"
+		"SublimeLinter-rubocop"
 	]
 }
